@@ -1,0 +1,689 @@
+{
+  "1508675242208268530": {
+    "roles": {
+      "1498679000065773608": "1513020075202838528",
+      "910875768987451433": "1513020073164542144",
+      "952552562660356218": "1513020067133001803",
+      "1070349002945605633": "1513020076562059294"
+    },
+    "starboard": {
+      "enabled": true,
+      "channelId": "1512867704149639168"
+    },
+    "balances": {
+      "1498679000065773608": 11368200593,
+      "1421615469596770335": 20,
+      "883031083833229423": 10100,
+      "952552562660356218": 44969431,
+      "1041080273565143102": 10,
+      "1229815791550070809": 10,
+      "910875768987451433": 280,
+      "920460018300624897": 60,
+      "620009576388886551": 10,
+      "1513166480206991506": 10,
+      "1297251444528775180": 10,
+      "1070349002945605633": 0
+    },
+    "purchases": {
+      "1498679000065773608": [
+        {
+          "tier": "Tier 3",
+          "roleId": "1513020073164542144",
+          "price": 1500,
+          "timestamp": 1780818537247
+        },
+        {
+          "tier": "Tier 4",
+          "roleId": "1513020071243677728",
+          "price": 4000,
+          "timestamp": 1780847432620
+        },
+        {
+          "tier": "Tier 1",
+          "roleId": "1513020076562059294",
+          "price": 100,
+          "timestamp": 1780853758904
+        },
+        {
+          "tier": "Tier 2",
+          "roleId": "1513020075202838528",
+          "price": 500,
+          "timestamp": 1780853763375
+        }
+      ],
+      "910875768987451433": [
+        {
+          "tier": "Tier 3",
+          "roleId": "1513020073164542144",
+          "price": 1500,
+          "timestamp": 1780817013472
+        }
+      ],
+      "952552562660356218": [
+        {
+          "tier": "Tier 3",
+          "roleId": "1513020073164542144",
+          "price": 1500,
+          "timestamp": 1780832032169
+        },
+        {
+          "tier": "Tier 1",
+          "roleId": "1513020076562059294",
+          "price": 100,
+          "timestamp": 1780839361850
+        },
+        {
+          "tier": "Tier 2",
+          "roleId": "1513020075202838528",
+          "price": 500,
+          "timestamp": 1780839369729
+        },
+        {
+          "tier": "Tier 4",
+          "roleId": "1513020071243677728",
+          "price": 4000,
+          "timestamp": 1780839380837
+        },
+        {
+          "tier": "Tier 5",
+          "roleId": "1513020067133001803",
+          "price": 10000,
+          "timestamp": 1780839383706
+        }
+      ],
+      "1070349002945605633": [
+        {
+          "tier": "Tier 1",
+          "roleId": "1513020076562059294",
+          "price": 100,
+          "timestamp": 1780847488804
+        }
+      ]
+    },
+    "battle": {
+      "1498679000065773608": {
+        "level": 1354855,
+        "xp": 65303354,
+        "currentHp": 250,
+        "maxHp": 250,
+        "baseAtk": 257234732986247800,
+        "baseDef": 1354857,
+        "weapon": "oblivion_edge",
+        "armor": "singularity_shell",
+        "inventory": {
+          "hp_potion": 0,
+          "plate_armor": 2594,
+          "chain_mail": 2961,
+          "mythril_sword": 2592,
+          "iron_sword": 3307,
+          "leather_armor": 3392,
+          "steel_blade": 2871,
+          "hide_vest": 3388,
+          "rusty_dagger": 3322,
+          "eclipse_guard": 2281,
+          "cloth_robe": 3206,
+          "lightbringer": 2282,
+          "iron_helm": 2854,
+          "frost_blade": 2656,
+          "wooden_club": 3321,
+          "thunder_hammer": 2675,
+          "frozen_guard": 2295,
+          "scale_armor": 2905,
+          "starforged_shield": 2305,
+          "battle_axe": 2910,
+          "light_plate": 2452,
+          "void_armor": 2300,
+          "flame_sword": 2345,
+          "dragon_slayer": 2330,
+          "dragon_scale": 2335,
+          "world_end": 2330,
+          "war_hammer": 2907,
+          "horde_potion": 84,
+          "thunder_guard": 2533,
+          "frost_mail": 2566,
+          "infinite_edge": 2300,
+          "abyssal_plate": 2271,
+          "reality_end": 2230,
+          "godslayer": 2285,
+          "soul_armor": 2268,
+          "shadow_blade": 2390,
+          "soul_reaper": 2346,
+          "abyssal_scythe": 2346,
+          "nectar_gods": 5,
+          "echo_void": 2313,
+          "eclipse_blade": 2340,
+          "celestial_fury": 2142,
+          "infinite_shell": 2288,
+          "cosmic_edge": 2243,
+          "aegis_divine": 2259,
+          "starfall": 2314,
+          "starweave_cloak": 2307,
+          "celestial_plate": 2357,
+          "wooden_shield": 3297,
+          "uncommon_chest": 2917,
+          "major_xp_gem": 2342,
+          "guardian_elixir": 14,
+          "common_chest": 3264,
+          "tiny_xp_gem": 3343,
+          "rare_chest": 2571,
+          "minor_xp_gem": 2870,
+          "bone_club": 3290,
+          "bone_armor": 2990,
+          "divine_chest": 2306,
+          "storm_bringer": 2281,
+          "heavens_bulwark": 2265,
+          "crystal_sword": 3319,
+          "greater_xp_gem": 2382,
+          "silver_rapier": 2877,
+          "rage_potion": 82,
+          "overdrive_potion": 13,
+          "inferno_guard": 2322,
+          "shadow_cloak": 2301,
+          "celestial_saber": 2296,
+          "silver_mail": 2593,
+          "xp_gem": 2565,
+          "void_scythe": 2214,
+          "frostmourne": 2303,
+          "legendary_chest": 2275,
+          "venom_stinger": 2583,
+          "void_mantle": 2343,
+          "monarch_xp_gem": 2279,
+          "epic_chest": 2406,
+          "celestial_xp_gem": 2253,
+          "heavens_fall": 2254,
+          "inferno_blade": 2451,
+          "secret_chest": 2228,
+          "supreme_xp_gem": 2319,
+          "philosopher_stone": 7,
+          "absolute_zero": 2288,
+          "mythical_chest": 2215,
+          "storm_shield": 2295,
+          "elixir_immortal": 6,
+          "berserker_potion": 8,
+          "phoenix_down": 20,
+          "divine_blessing": 2,
+          "elixir_power": 24,
+          "timeless_elixir": 3,
+          "elixir_rebirth": 21,
+          "rune_knife": 2604,
+          "flawed_xp_gem": 2803,
+          "fractured_xp_gem": 2707,
+          "barbarian_axe": 2498,
+          "primal_fury": 2153,
+          "rune_cape": 2532,
+          "stone_hatchet": 2781,
+          "arcane_staff": 2372,
+          "polished_xp_gem": 2544,
+          "eternity_cloak": 2251,
+          "rune_plate": 2466,
+          "radiant_xp_gem": 2395,
+          "straw_cape": 2677,
+          "arcane_robe": 2408,
+          "training_sword": 2861,
+          "patchwork_vest": 2898,
+          "reinforced_chest": 2366,
+          "brilliant_xp_gem": 2273,
+          "titan_potion": 16,
+          "iron_bracers": 2556,
+          "arcane_shield": 2294,
+          "rune_blade": 2517,
+          "eternity": 2162,
+          "nightfall": 2205,
+          "eternal_guard": 2186,
+          "bulwark_potion": 46,
+          "rune_hammer": 2226,
+          "rune_armor": 2147,
+          "oblivion_guard": 2224,
+          "arcane_blade": 2245,
+          "starlight_plate": 2144,
+          "rune_greatsword": 2244,
+          "rune_guard": 2289,
+          "void_chest": 2228,
+          "rift_plate": 2201,
+          "singularity": 2275,
+          "starlight": 2191,
+          "rift_blade": 2185,
+          "singularity_shell": 2198,
+          "frenzy_potion": 42,
+          "divine_potion": 9,
+          "celestial_chest": 2255,
+          "primal_aegis": 2244,
+          "godmode_potion": 2,
+          "oblivion_edge": 2234,
+          "absolute_essence": 1,
+          "primordial_essence": 2,
+          "eternal_elixir": 2,
+          "cosmic_renewal": 3
+        },
+        "battles": 32085,
+        "wins": 32085,
+        "streak": 10695,
+        "autohunt": false,
+        "autoChannel": null,
+        "buffs": {
+          "luck": 0,
+          "xp": 0,
+          "horde": 0,
+          "atkBoost": 0,
+          "defBoost": 0
+        },
+        "gemXp": "celestial_xp_gem",
+        "chainLimit": 1000
+      },
+      "952552562660356218": {
+        "level": 2369,
+        "xp": 48523,
+        "currentHp": 250,
+        "maxHp": 250,
+        "baseAtk": 254728,
+        "baseDef": 2371,
+        "weapon": null,
+        "armor": null,
+        "inventory": {
+          "hp_potion": 0,
+          "chain_mail": 82,
+          "steel_blade": 94,
+          "hide_vest": 122,
+          "epic_chest": 10,
+          "cloth_robe": 121,
+          "bone_club": 144,
+          "minor_xp_gem": 95,
+          "leather_armor": 154,
+          "common_chest": 116,
+          "abyssal_scythe": 12,
+          "rusty_dagger": 133,
+          "frostmourne": 8,
+          "wooden_club": 132,
+          "frost_blade": 38,
+          "rare_chest": 44,
+          "iron_sword": 147,
+          "void_scythe": 10,
+          "wooden_shield": 132,
+          "mythril_sword": 47,
+          "dragon_slayer": 8,
+          "scale_armor": 75,
+          "supreme_xp_gem": 3,
+          "xp_gem": 33,
+          "war_hammer": 91,
+          "silver_mail": 52,
+          "heavens_bulwark": 10,
+          "legendary_chest": 7,
+          "celestial_fury": 7,
+          "tiny_xp_gem": 149,
+          "plate_armor": 41,
+          "eclipse_guard": 9,
+          "crystal_sword": 141,
+          "reality_end": 5,
+          "thunder_hammer": 47,
+          "shadow_blade": 22,
+          "lightbringer": 13,
+          "inferno_guard": 18,
+          "thunder_guard": 41,
+          "uncommon_chest": 85,
+          "frost_mail": 44,
+          "silver_rapier": 84,
+          "eclipse_blade": 5,
+          "celestial_xp_gem": 6,
+          "infinite_edge": 8,
+          "bone_armor": 81,
+          "starforged_shield": 6,
+          "major_xp_gem": 4,
+          "iron_helm": 82,
+          "starweave_cloak": 10,
+          "abyssal_plate": 9,
+          "frozen_guard": 4,
+          "world_end": 2,
+          "soul_reaper": 5,
+          "battle_axe": 76,
+          "celestial_plate": 2,
+          "venom_stinger": 31,
+          "storm_shield": 8,
+          "shadow_cloak": 12,
+          "secret_chest": 2,
+          "soul_armor": 4,
+          "mythical_chest": 8,
+          "rage_potion": 13,
+          "flame_sword": 22,
+          "void_armor": 14,
+          "horde_potion": 8,
+          "starfall": 4,
+          "echo_void": 7,
+          "godslayer": 7,
+          "heavens_fall": 3,
+          "inferno_blade": 16,
+          "infinite_shell": 3,
+          "celestial_saber": 9,
+          "light_plate": 11,
+          "void_mantle": 10,
+          "divine_chest": 4,
+          "greater_xp_gem": 22,
+          "cosmic_edge": 6,
+          "aegis_divine": 5,
+          "absolute_zero": 2,
+          "storm_bringer": 10,
+          "elixir_rebirth": 3,
+          "dragon_scale": 20,
+          "monarch_xp_gem": 4,
+          "berserker_potion": 2,
+          "phoenix_down": 3,
+          "elixir_immortal": 4,
+          "patchwork_vest": 58,
+          "flawed_xp_gem": 59,
+          "stone_hatchet": 71,
+          "training_sword": 51,
+          "primal_fury": 3,
+          "fractured_xp_gem": 49,
+          "rune_cape": 28,
+          "barbarian_axe": 43,
+          "rune_greatsword": 8,
+          "rune_knife": 34,
+          "rune_blade": 26,
+          "primal_aegis": 1,
+          "straw_cape": 61,
+          "rune_plate": 10,
+          "iron_bracers": 32,
+          "polished_xp_gem": 39,
+          "arcane_robe": 27,
+          "nightfall": 2,
+          "arcane_blade": 5,
+          "divine_potion": 2,
+          "bulwark_potion": 7,
+          "reinforced_chest": 18,
+          "radiant_xp_gem": 19,
+          "arcane_shield": 6,
+          "rune_hammer": 2,
+          "rune_guard": 7,
+          "void_chest": 1,
+          "arcane_staff": 14,
+          "eternal_guard": 3,
+          "eternity": 2,
+          "frenzy_potion": 5,
+          "brilliant_xp_gem": 3,
+          "oblivion_edge": 1,
+          "starlight": 1,
+          "eternity_cloak": 3,
+          "eternal_elixir": 1,
+          "singularity": 1,
+          "celestial_chest": 1,
+          "oblivion_guard": 1,
+          "rune_armor": 1
+        },
+        "battles": 3845,
+        "wins": 3845,
+        "streak": 321,
+        "buffs": {
+          "luck": 0,
+          "xp": 0,
+          "horde": 0,
+          "atkBoost": 0,
+          "defBoost": 0
+        },
+        "gemXp": null,
+        "autohunt": false,
+        "autoChannel": null,
+        "chainLimit": 0
+      },
+      "910875768987451433": {
+        "level": 1,
+        "xp": 0,
+        "currentHp": 0,
+        "maxHp": 250,
+        "baseAtk": 8,
+        "baseDef": 3,
+        "weapon": null,
+        "armor": null,
+        "inventory": {
+          "hp_potion": 3
+        },
+        "battles": 0,
+        "wins": 0,
+        "streak": 0,
+        "buffs": {
+          "luck": 0,
+          "xp": 0,
+          "horde": 0,
+          "atkBoost": 0,
+          "defBoost": 0
+        },
+        "autohunt": false,
+        "autoChannel": null
+      }
+    },
+    "customReactionRoles": {
+      "1512226602694738030": [
+        {
+          "emoji": "c_milk:1401686189916033075",
+          "roleId": "1512137225595388076",
+          "isCustom": true
+        },
+        {
+          "emoji": "4552milkshrugidk:1470134523994832939",
+          "roleId": "1512137227025518643",
+          "isCustom": true
+        }
+      ],
+      "1512222889280278538": [
+        {
+          "emoji": "love:1512133659572961330",
+          "roleId": "1512137215940235516",
+          "isCustom": true
+        },
+        {
+          "emoji": "🏚️",
+          "roleId": "1512137218163081306",
+          "isCustom": false
+        },
+        {
+          "emoji": "milk_pleading:1401686185319075964",
+          "roleId": "1512137219941466153",
+          "isCustom": true
+        },
+        {
+          "emoji": "dead:1146346268143144990",
+          "roleId": "1512137211364249640",
+          "isCustom": true
+        },
+        {
+          "emoji": "whitebearmad:1466693556738719814",
+          "roleId": "1512137212442054757",
+          "isCustom": true
+        },
+        {
+          "emoji": "bwenyumoji:1512228187327692830",
+          "roleId": "1512137214497132645",
+          "isCustom": true
+        }
+      ],
+      "1512220134649888899": [
+        {
+          "emoji": "blue_cake:1511813986398507148",
+          "roleId": "1512137229995217087",
+          "isCustom": true
+        },
+        {
+          "emoji": "collar03_ggillyt:1467231987394941080",
+          "roleId": "1512137230611906836",
+          "isCustom": true
+        },
+        {
+          "emoji": "pusheenblush:1512133665453379654",
+          "roleId": "1512137235355406510",
+          "isCustom": true
+        },
+        {
+          "emoji": "kuromilove:1512133558742028478",
+          "roleId": "1512137234541842684",
+          "isCustom": true
+        },
+        {
+          "emoji": "greenorchid:1490070845928902766",
+          "roleId": "1512137232952201306",
+          "isCustom": true
+        },
+        {
+          "emoji": "y_hello:1045207917772673096",
+          "roleId": "1512137236609634374",
+          "isCustom": true
+        },
+        {
+          "emoji": "bluehearts:1503256585957539960",
+          "roleId": "1512137237549158461",
+          "isCustom": true
+        }
+      ],
+      "1512233931343269999": [
+        {
+          "emoji": "78005hellokittywithrea:1495552137810153543",
+          "roleId": "1512137210013421580",
+          "isCustom": true
+        }
+      ]
+    },
+    "cuteCoins": {
+      "910875768987451433": 130,
+      "1498679000065773608": 870,
+      "883031083833229423": 70,
+      "1070349002945605633": 690,
+      "1513189161517977615": 10,
+      "952552562660356218": 220,
+      "1360091692367216723": 10
+    }
+  },
+  "1464813179510063189": {
+    "roles": {},
+    "starboard": {
+      "enabled": true,
+      "channelId": "1482979166818140261"
+    },
+    "balances": {
+      "1507872836847538277": 10
+    }
+  },
+  "1513025006949372084": {
+    "roles": {},
+    "starboard": {
+      "enabled": false,
+      "channelId": null
+    },
+    "balances": {
+      "1498679000065773608": 40
+    }
+  },
+  "__changelog": [
+    {
+      "version": "3.0.0",
+      "date": "2026-06-07",
+      "changes": [
+        "Separated currencies: 🪙 Coins (battles/gambling/shop) and 🩷 Cute Coins (chatting)",
+        "Steal system: ,steal @user with currency picker, random 1-1000, 50% success, half penalty on fail",
+        "Reset economy: ,reseteconomy / /reseteconomy — wipes all coins + cute coins (bot-creator only)",
+        "Multi-leaderboard: ,lb now shows 8 categories with button navigation (coins, cute coins, level, wins, streak, ratio, inventory value, rarest weapon)",
+        "Slash versions added: /huntadmin (with subcommand dropdown), /promoview",
+        "All prefix commands now have matching slash command equivalents",
+        "Inventory command (,inv) shows category buttons then items sorted least→most rare"
+      ]
+    },
+    {
+      "version": "2.2.0",
+      "date": "June 7, 2026",
+      "changes": [
+        "20 new enemies: Tier 16 (Transcendence, Nova Beast, Eternal One, Paradox), Tier 17 (Infinity Worm, Absolute Being, Cosmic Overlord, The Endless), Tier 15+ (Eternal Phoenix, Dimension Walker), and extras for Tiers 3, 5, 7, 9, 11, 13",
+        "3 new ultra bosses: World Eater, Aetherius, The Great Old One (level 80+)",
+        "16 new weapons across all rarities: Stone Hatchet, Training Sword, Rune Knife, Barbarian Axe, Rune Blade, Arcane Staff, Rune Greatsword, Arcane Blade, Rune Hammer, Nightfall, Rift Blade, Eternity, Primal Fury, Starlight, Oblivion Edge, Singularity",
+        "16 new armor pieces across all rarities: Straw Cape, Patchwork Vest, Iron Bracers, Rune Cape, Rune Plate, Arcane Robe, Rune Guard, Arcane Shield, Rune Armor, Eternal Guard, Rift Plate, Eternity Cloak, Primal Aegis, Starlight Plate, Oblivion Guard, Singularity Shell",
+        "8 new potions: Herb Poultice, Healing Salve, Greater Potion, Ancient Potion, Divine Potion (+50 temp HP), Eternal Elixir (+10 perm HP), Cosmic Renewal (restore + buffs +3), Absolute Essence (+25 perm HP +1 Atk/Def)",
+        "6 new buff potions: Sharpshooter Potion (+10 Atk/4 battles), Barrier Potion (+10 Def/4 battles), Frenzy Potion (+40 Atk/3 battles), Bulwark Potion (+20 Def/4 battles), Titan Potion (+40 Atk & +20 Def/4 battles), Godmode Potion (+200 Atk & +100 Def/1 battle)",
+        "5 new XP gems: Fractured (1.2x), Flawed (1.35x), Polished (2.5x), Radiant (4x), Brilliant (7.5x)",
+        "3 new chests: Reinforced Chest (Rare+), Celestial Chest (Legendary+), Void Chest (Mythical+)",
+        "Special potion effects implemented: temp HP, permanent max HP, stat boosts, and buff extensions",
+        "New chest types with tier+ loot pools (Reinforced/Celestial/Void Chests)",
+        "All new items added to drop tables and usable via ,use and /use commands"
+      ]
+    },
+    {
+      "version": "2.1.0",
+      "date": "June 7, 2026",
+      "changes": [
+        "Purchase DMs now show granted roles, balance, and unlocked permissions after buying a tier",
+        "Tier 3 also grants role 1512591214640234619 (custom role creation access)",
+        "Custom reaction role system (independent of Carl-bot) with /rr-setup (add/remove/list/interactive/scan)",
+        "Reaction role DM notifications when role is added or removed",
+        "Promoview command to preview advertise reach (excludes bbydollz members)",
+        "Advertise now excludes users already in the bbydollz server",
+        "Max gamble bet increased from 2,500 to 25,000 coins",
+        "Bot owner panel (,huntadmin) for editing any player's HP, atk, def, weapon, armor, gem, and items",
+        "Chain battle command: ,ha @user chain <N> to fight N battles at once with a summary",
+        "15 new monsters added (Tier 13-15): Astral Beast, Void Lord, Storm Giant, Celestial Drake, World Serpent, Fate Spinner, Reaper, Nightmare, Apocalypse, Creator, Omega, The One, and more",
+        "8 boss monsters with 5% spawn chance and massive rewards",
+        "New weapons: Crystal Sword, Bone Club, Silver Rapier, Venom Stinger, Inferno Blade, Storm Bringer, Void Scythe, Heaven's Fall",
+        "New armor: Wooden Shield, Bone Armor, Silver Mail, Inferno Guard, Storm Shield, Void Mantle, Heaven's Bulwark",
+        "New potions: Minor Heal, Mega Potion, Ultra Potion, Elixir of Rebirth, Philosopher's Stone",
+        "New buffs: Fortitude Potion, Rage Potion, Guardian Elixir, Overdrive Potion",
+        "8 chests (Common → Secret) — use them to get random weapon/armor of matching rarity",
+        "8 XP gems (Tiny 1.5x → Celestial 10000x) — equip for passive XP multiplier",
+        "XP gem multiplier shown in profile, battle results, and autohunt",
+        "Fixed reaction roles not working after bot restart (added Partials for Message/Channel/Reaction)",
+        "New buff potion support added to ,use and /use commands"
+      ]
+    },
+    {
+      "version": "2.0.0",
+      "date": "June 7, 2026",
+      "changes": [
+        "Unified all help commands into one — /dollhelp (prefix: ,Dollhelp) with button-navigated pages by category",
+        "Item rarity system: 8 tiers (Common → Secret) with weighted drops",
+        "36 enemies (was 6) across 12 difficulty tiers",
+        "40+ new items across all rarity tiers — weapons, armor, and potions",
+        "New buff potions: Elixir of Power (+20 Atk), Berserker Brew (+35 Atk, -10 Def), Divine Blessing (all buffs)",
+        "atkBoost/defBoost buff fields added to BattlePlayer with migration",
+        "All battle files updated to apply atkBoost/defBoost in combat",
+        "Epic+ drops show a special ★ INCREDIBLE! announcement",
+        "Autohunt changed from 30s interval to immediate battle chaining",
+        "Default HP changed from 60 to 250 with player migration",
+        "/items (split into Weapons/Armor/Potions & Buffs pages) with button navigation",
+        "Tier 3 role requirement added to autohunt with one-click buy prompt",
+        "All help files (prefix + slash) updated with complete command listings",
+        "Shop tiers are now one-time purchase only (role ownership check)"
+      ]
+    },
+    {
+      "version": "1.1.0",
+      "date": "June 7, 2026",
+      "changes": [
+        "Added /server-copier command",
+        "Reduced economy coin cooldown from 30s to 10s",
+        "Tier roles now auto-assign to buyers on purchase",
+        "Tier roles display separately from members (hoisted)",
+        "Reworked tier permissions with progressive unlocks (T1–T5)",
+        "Slash commands registered globally",
+        "Added /updatelog command",
+        "Added /addupdate command for dynamic changelog management",
+        "Added /advertise command — DMs mutual-server members with server invite",
+        "Advertise command changed from specific user target to mutual-server members",
+        "Invite link changed from babydollz to bbydollz",
+        "Added /gamble command with 5 games: coinflip, blackjack, slots, spin, cards",
+        "Max bet cap of 2,500 coins per game; win doubles your bet",
+        "Gamble subcommand abbreviations: cf, bj, sl, sp, cd",
+        "Added /eco-give command for bot creator to give/take coins from any user",
+        "eco-give supports @everyone and @here for mass give/take",
+        "BOT_CREATOR_ID environment variable configured; /restart is bot-creator-only"
+      ]
+    },
+    {
+      "version": "1.0.0",
+      "date": "June 1, 2026",
+      "changes": [
+        "Initial release",
+        "Role management: create, delete, name, color, icon, share",
+        "Reaction role system",
+        "Moderation: ban, kick, mute, unmute",
+        "Economy system with coin earning (10 coins per 30s)",
+        "5-tier role shop with purchasable roles",
+        "Starboard system",
+        "Arcane level-up integration (auto-role at level 10)",
+        "Server info, role info, invite info commands",
+        "Prefix (`,) and slash command support"
+      ]
+    }
+  ]
+}
